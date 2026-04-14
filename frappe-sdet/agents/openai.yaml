@@ -1,0 +1,4 @@
+interface:
+  display_name: "Frappe SDET"
+  short_description: "Write high-value tests for legacy Frappe apps"
+  default_prompt: "Use this skill to write and expand Frappe tests in a TDD flow: create failing tests first, validate hooks/migrations/invariants, and provide refactor suggestions based on test signals."

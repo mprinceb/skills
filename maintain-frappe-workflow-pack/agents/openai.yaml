@@ -1,0 +1,7 @@
+interface:
+  display_name: "Frappe Workflow Pack Maintainer"
+  short_description: "Canonicalize and refresh Frappe workflow docs"
+  default_prompt: "Use $maintain-frappe-workflow-pack to build or refresh the canonical business-workflow pack, baseline manifest, and AGENTS guidance for this Frappe app."
+
+policy:
+  allow_implicit_invocation: true

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Frappe Bench CLI"
+  short_description: "Develop and operate Frappe benches in dev/prod"
+  default_prompt: "Use this skill for Frappe development and operations: DocTypes, hooks, relations, migrations, tests, app lifecycle, and safe bench execute workflows."

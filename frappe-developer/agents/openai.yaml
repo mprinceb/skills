@@ -1,0 +1,4 @@
+interface:
+  display_name: "Frappe Developer"
+  short_description: "Implement Frappe code in red-green-refactor flow"
+  default_prompt: "Use this skill to implement Frappe features and fixes from failing tests with minimal-safe code changes, hook compatibility, migration discipline, and strong validation evidence."

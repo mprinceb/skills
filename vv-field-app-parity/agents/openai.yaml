@@ -1,0 +1,4 @@
+interface:
+  display_name: "VV Field App Parity"
+  short_description: "Repo-specific engineering field-app parity"
+  default_prompt: "Use $vv-field-app-parity to verify engineering field-app parity against engineering-frappe-api-contract.md, produce a route-by-route parity worksheet, implement only repo-specific gaps, and update tests and contract references together."

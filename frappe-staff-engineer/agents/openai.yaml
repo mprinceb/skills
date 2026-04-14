@@ -1,0 +1,4 @@
+interface:
+  display_name: "Frappe Staff Engineer"
+  short_description: "Plan architecture and orchestrate TDD delivery"
+  default_prompt: "Use this skill as a staff-level Frappe lead: build architecture and risk plan, orchestrate SDET/developer/helper roles, and drive TDD delivery from requirement to validated release."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Refactor Hunter"
+  short_description: "Identify safe refactor and code-splitting opportunities."
+  default_prompt: "Use $refactor-hunter on code_path to inspect this JS/TS/Python codebase and produce a prioritized, evidence-backed refactor and code-splitting plan."

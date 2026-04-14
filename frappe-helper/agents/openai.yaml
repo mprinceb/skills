@@ -1,0 +1,4 @@
+interface:
+  display_name: "Frappe Helper"
+  short_description: "Research docs/source/forum for Frappe decisions"
+  default_prompt: "Use this skill to research Frappe/ERPNext docs, source, and community threads with version-aware citations and actionable recommendations for engineering decisions."

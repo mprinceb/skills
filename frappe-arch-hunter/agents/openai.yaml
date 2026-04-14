@@ -1,0 +1,4 @@
+interface:
+  display_name: "Frappe Arch Hunter"
+  short_description: "Map DocType impact and business flows"
+  default_prompt: "Use $frappe-arch-hunter to trace a DocType through hooks, functions, and workflow flows in this Frappe app."
